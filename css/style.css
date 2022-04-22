@@ -130,6 +130,6 @@ body::before{
 @media (max-width:768px){
     nav a h2{
         /* max-width: 100%; */
-        font-size: 32px;
+        font-size: 13px;
     }
 }
