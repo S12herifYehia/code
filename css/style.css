@@ -127,3 +127,9 @@ body::before{
     height: 45px;
     
 }
+@media (max-width:768px){
+    nav a h2{
+        /* max-width: 100%; */
+        font-size: 50px;
+    }
+}
